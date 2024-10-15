@@ -5,5 +5,6 @@ xhofe/alist:latest
 neosmemo/memos:latest
 vaultwarden/server:latest
 cloudnas/clouddrive2:latest
+vaultwarden/server:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
