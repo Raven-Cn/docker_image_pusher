@@ -1,14 +1,1 @@
-image neosmemo/memos:0.20.0
-image_name_tag memos:latest
-name_space: neosmemo
-image_name: memos
-
-image louislam/uptime-kuma:1
-image_name_tag uptime-kuma:1
-name_space: louislam
-image_name: uptime-kuma
-
-image sdvd/server:latest
-image_name_tag stardew_server:latest
-name_space: sdvd
-image_name: stardew_server
+sdvd/server:latest
